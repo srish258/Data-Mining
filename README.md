@@ -10,7 +10,7 @@ These following code are my homework source code.
 
 |No.|    Main Application    |Programming|Tags|
 |---|------------------------|-----------|----|
-|1|[Data Exploration]()|[Python]()|`MapReduce` `Spark` `Pyspark`|
-|2|[Find Frequent Itemsets]()|[Python]()| `PCY` `Apriori` `SON`|
-|3|[Recommendation Systems]()|[Python]()|`Collaborative Filtering` `MinHash` `LSH`|
-|5|[Clustering Algorithm]()|[Python]()|`K-Means` `Bradley-Fayyad-Reina (BFR) Algorithm` `NMI`|
+|1|[Data Exploration](https://github.com/srish258/Data-Mining/blob/main/DATA_MINING_HW1/dsci553_summer2021_assignment1.pdf)|[Python](https://github.com/srish258/Data-Mining/tree/main/DATA_MINING_HW1)|`MapReduce` `Spark` `Pyspark`|
+|2|[Find Frequent Itemsets](https://github.com/srish258/Data-Mining/blob/main/DATA_MINING_HW2/dsci553_summer2021_assignment2.pdf)|[Python](https://github.com/srish258/Data-Mining/tree/main/DATA_MINING_HW2)| `PCY` `Apriori` `SON`|
+|3|[Recommendation Systems](https://github.com/srish258/Data-Mining/blob/main/DATA_MINING_HW3/DSCI553_summer_hw3.pdf)|[Python](https://github.com/srish258/Data-Mining/tree/main/DATA_MINING_HW3)|`Collaborative Filtering` `MinHash` `LSH`|
+|5|[Clustering Algorithm](https://github.com/srish258/Data-Mining/blob/main/DATA_MINING_HW4/dsci553_summer2021_assignment4.pdf)|[Python](https://github.com/srish258/Data-Mining/tree/main/DATA_MINING_HW4)|`K-Means` `Bradley-Fayyad-Reina (BFR) Algorithm` `NMI`|
