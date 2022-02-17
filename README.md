@@ -1,5 +1,5 @@
 # Data-Mining
-USC Summer 2021 DSCI 553 (Foundations and Applications of Data Mining) Score: 92/100
+USC Summer 2021 DSCI 553 (Foundations and Applications of Data Mining) 
 ### Course Description
 Algorithms and techniques of Data Mining and Machine Learning for analyzing massive datasets. Emphasis on Map Reduce and others. Case studies and applications.
 
