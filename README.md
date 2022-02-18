@@ -6,7 +6,6 @@ Algorithms and techniques of Data Mining and Machine Learning for analyzing mass
 Data mining is a fundamental skill for massive data analysis. At a high level, it allows the analyst to discover patterns in data, and transform it into a usable product. The course will teach data mining algorithms for analyzing very large data sets. It will have an applied focus, in that it is meant for preparing students to utilize topics in data mining to solve real world problems.
 
 ### Homeworks
-These following code are my homework source code.
 
 |No.|    Main Application    |Programming|Tags|
 |---|------------------------|-----------|----|
